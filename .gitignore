@@ -1,0 +1,15 @@
+# Large data
+data/
+cached/
+*.mp4
+*.wav
+
+# PyTorch
+*.pth
+*.pt.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
